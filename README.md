@@ -4,11 +4,11 @@
 ![Breaking Bad poster with Jesse and Walter sitting in lawn chair while wearing their lab suits and gas masks](https://assets-prd.ignimgs.com/2023/01/20/breaking-bad-newbutton-1674233834062.jpg?width=300&auto=webp)
 ## Summary
 
-[Breaking Bad](https://www.imdb.com/title/tt0903747/) is a dramatic television show created and directed by Vince Gilligan.
+[_Breaking Bad_](https://www.imdb.com/title/tt0903747/) is a dramatic television show created and directed by Vince Gilligan.
 
 Walter White is a high school chemistry teacher turned meth kingpin when he discovers he has stage IV lung cancer.
 
-Both Breaking Bad and its prequel, [Better Call Saul](https://www.imdb.com/title/tt3032476/), are critically acclaimed.
+Both Breaking Bad and its prequel, [_Better Call Saul_](https://www.imdb.com/title/tt3032476/), are critically acclaimed.
 
 ## Characters
 
@@ -22,12 +22,12 @@ Both Breaking Bad and its prequel, [Better Call Saul](https://www.imdb.com/title
 ### Jesse Pinkman
 
 ## Best Episodes
-The series consists of 62 episodes, but which are the highest rated?
+The series consists of 62 episodes, but which are the highest rated? These are the top five highest rated episodes according to IMDb:
 
-1. S5.E14: Ozymandias
-2. S5.E16: Felina
-3. S4.E13: Face Off
-4. S5.E13: To'hajiilee
-5. S5.E15: Granite State
+1. Ozymandias - Season 5, Episode 14
+2. Felina - Season 5, Episode 16
+3. Face Off - Season 4, Episode 13
+4. To'hajiilee - Season 5, Episode 13
+5. Granite State - Season 5, Episode 15
 
 You can watch all five seasons of Breaking Bad on [Netflix](https://www.netflix.com/title/70143836).
