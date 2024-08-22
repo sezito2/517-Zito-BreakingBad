@@ -16,10 +16,14 @@ Both Breaking Bad and its prequel, [Better Call Saul](https://www.imdb.com/title
 ![Walter White in a hazmat suit](https://wp.inews.co.uk/wp-content/uploads/2018/01/walter-white-breaking-bad.jpg?resize=640,360&strip=all&quality=90)
 
 * High School chemisty teacher
-* Meth kingpin
+* Meth manufacturer
 * Played by Bryan Cranston
 
 ### Jesse Pinkman
+
+* Former chemistry student of Walter White
+* Low-level drug distributor in Albuquerque, New Mexico
+* Played by Aaron Paul
 
 ## Best Episodes
 The series consists of 62 episodes, but which are the highest rated?
